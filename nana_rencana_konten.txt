@@ -5,3 +5,4 @@ Rencana Konten Nana
   * event terbaru
 - Mobile legend di tiktok
 - Mobile legend ti Youtube Short
+- Mebuat analisis konten mobile legend 
